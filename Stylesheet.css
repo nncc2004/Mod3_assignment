@@ -1,0 +1,70 @@
+body {
+  font-size: 20px;
+  color: #ffff;
+  background-color: #5f6064;
+  font-family: 'Caveat', cursive;
+}
+#size_id div {
+  text-align: center;
+  font-size: 90%;
+}
+.subtitle{
+  text-align: center;
+  font-size: 150%;
+}
+.container {
+  width: 100%;
+}
+
+.navbar-header h1 {
+  color: #5f6064;
+  min-font-size: 20px;
+  font-size: 50px;
+  margin: 0;
+}
+
+#header-nav {
+  background-color: #f8f8f8;
+  border-radius: 0;
+  border: 0;
+  min-height: 80px;
+  height: auto;
+}
+
+
+p {
+  border: 1px solid black;
+  background-color: #ffff;
+  min-height: 1000px;
+  height: auto;
+  color: #5f6064;
+  padding: 5px;
+  text-align: center;
+  text-align: justify;
+}
+
+
+.collapsable-btn {
+  color: #5f6064;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 1px;
+  height: 35px;
+}
+.collapsable-btn:hover {
+  background-color: #D3D3D3;
+}
+
+.navbar-toggle{
+  border: 0;
+}
+
+
+.navbar-header button.navbar-toggle{
+ margin-top: 25px;  
+}
+
+#collapsable-nav {
+  border: 0;
+  border-bottom: 0;
+}
